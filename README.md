@@ -30,8 +30,8 @@
 
 
 <div display: flex;>
-  <img height = '220em' src="https://github-readme-stats.vercel.app/api?username=alehscm&show_icons=true&theme=radical">
-  <img  height = '220em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehscm&layout=compact&show_icons=true&theme=radical">
+  <img height = '1890em' src="https://github-readme-stats.vercel.app/api?username=alehscm&show_icons=true&theme=radical">
+  <img  height = '180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehscm&layout=compact&show_icons=true&theme=radical">
 </div>
 
 

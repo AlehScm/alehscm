@@ -18,9 +18,14 @@
 
 ## 
 
-
 <div>
   <a href="https://www.instagram.com/in/aleh_scm" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2d38dd?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt=""></a>
   <a href="https://www.instagram.com/in/aleh_scm" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt=""></a>
   <a href="https://www.linkedin.com/in/alehscm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt=""></a>
 </div>
+
+##
+
+<img src="https://raw.githubusercontent.com/alehscm/alehscm/output/snake.svg" alt="Snake animation" />
+
+###

@@ -22,8 +22,7 @@
   - Typescript
   - Angular.
 <br>
-  
-🛠️ Construindo projetos para desevolver minhas habilidades e monstrar meu progresso.
+🛠️ Construindo projetos para desevolver minhas habilidades e mostrar meu progresso.
 <br>
 📫 Fale comigo: <a href="alehscm@gmail.com">alehscm@gmail.com<
 ## <div align = center> Meus Status🔥 </div>
